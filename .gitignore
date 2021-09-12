@@ -1,0 +1,4 @@
+*.bat
+pygame
+__pycache__
+.venv
