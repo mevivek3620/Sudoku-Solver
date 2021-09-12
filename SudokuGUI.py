@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 from sudokutools import valid, solve, find_empty
 from copy import deepcopy
 from sys import exit
