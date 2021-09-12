@@ -7,14 +7,14 @@
 -	Likewise, values can be removed by pressing on the backspace or delete keys.
 
 <p align="center">
-	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Entering%20Values.gif">
+	<img src="https://github.com/mevivek3620/Sudoku-Solver/blob/main/assets/Entering%20Values.gif">
 </p>
 
 -	If at any point the player decides to solve the board, the Spacebar key can be pressed.
 -	This will commence a visual which will demonstrate how the backtracking algorithm works and how it is being applied in order to solve the board.
 
 <p align="center">
-	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Visualizer.gif">
+	<img src="https://github.com/mevivek3620/Sudoku-Solver/blob/main/assets/Visualizer.gif">
 </p>
 
 ## Input:
